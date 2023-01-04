@@ -24,6 +24,8 @@
 
 
 * ## PACTH HEROKU NEXT UPDATE AKAN DATANG YA GUYS
+* ## Scrip AlpisV2 Dah Siap Tinggal Upload dan buat tutorial tapi Saya ada Ujian minngu Depan sapai 17/1 lepas habis baru start buat
+
 
 Forks Github Ini
  [`Klik Sini Untuk Fork Project`](https://github.com/AlipBot/api-alpis/fork)<br>
